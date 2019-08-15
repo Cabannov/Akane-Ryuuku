@@ -1,0 +1,1 @@
+worker: mose bot.js
